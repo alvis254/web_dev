@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>tables html</title>
+</head>
+</html>
+<body>
+
+<table>    
+    <tr>
+        <th>sub heading</th>
+        <th>sub2</th>
+        <th>sub3</th>
+    <tr>
+    </tr>
+
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+
+    <tr>
+    </tr>
+    
+    <td>berry</td>
+    <td>orange</td>
+    <td>mango</td>
+
+
+    </tr>
+</table>
+
+    <tr>
+        <th style = "background-color:blue;"></th>Tokyo</th>
+        <th>New york</th>
+        <th>Nairobi</th>
+
+
+    </tr>
+
+
+
+
+
+
+
+
+</body>
+
